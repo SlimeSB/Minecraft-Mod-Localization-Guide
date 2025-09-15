@@ -1,7 +1,7 @@
 # Minecraft Community Content Localization Guide
 Minecraft 社区内容本地化指南
 
-## 简介
+## 仓库简介
 
 Minecraft 在全球经久不衰的热度离不开社区创作，然而语言问题一直是优秀作品传播的阻碍，我希望凭此项目引导热爱此游戏的人参与本地化工作。
 
